@@ -1,11 +1,15 @@
 # Group-Assignment-3
 
 Group members & module assignments
-Module 1 - Ling Hua Rong
-Module 2 - Wong Pei Rou
-Module 3 - Lew Zhi Xin 
-Module 4 - Nam Ke Ni 
-Module 5 - Tai Wen Xuan, Zhang Lingran
+Module 1 - Ling Hua Rong 24004492
+
+Module 2 - Wong Pei Rou 24004549
+
+Module 3 - Lew Zhi Xin 24004612
+
+Module 4 - Nam Ke Ni 24004525
+
+Module 5 - Tai Wen Xuan 24004565, Zhang Lingran 22111128
 
 Description of each module’s functionality
 Module 1:
